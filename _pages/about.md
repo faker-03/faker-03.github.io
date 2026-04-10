@@ -19,10 +19,12 @@ news: true
 latest_posts: false
 ---
 
-I am a student working in computational physics and nuclear physics. My research interests include nonlinear dynamical systems, atomistic simulation, and related problems in many-body physics.
+I am a student working in computational physics and nuclear physics.
 
-My current work focuses on energy localization and thermalization in nonlinear lattice systems, including q-breathers, FPU-type models, and graphene-related dynamical phenomena. I am also interested in computational approaches to nuclear and condensed-matter problems.
+My research focuses on theoretical and computational approaches to complex physical systems, with particular interests in neural-network-based methods, ion irradiation processes, and atomistic simulations.
 
-More broadly, I work on problems at the intersection of theory, computation, and complex dynamics, with an emphasis on physically motivated models and numerical methods.
+I am interested in combining physics-based modeling with modern data-driven techniques to study structure, dynamics, and radiation-induced phenomena in materials and related systems.
+
+My current work involves computational studies of irradiation effects, as well as the application of machine learning methods to physical modeling and simulation. More broadly, I am interested in problems at the intersection of computation, nuclear science, and many-body physics.
 
 This website collects my research activities, publications, and projects.
