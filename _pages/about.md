@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Lanzhou University</p>
     <p>Lanzhou, China</p>
-    <p>Email: heyg2025@lzu.edu.cn</p>
+    <p>Email: heyq2025@lzu.edu.cn</p>
 
 selected_papers: false
 social: true
