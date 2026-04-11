@@ -10,21 +10,57 @@ profile:
   image_circular: false
   more_info: >
     <p>Lanzhou University</p>
-    <p>Lanzhou, China</p>
+    <p>(Lanzhou, China)</p>
     <p>Email: heyq2025@lzu.edu.cn</p>
 
 selected_papers: false
-social: true
-news: true
+social: false
+news: false
 latest_posts: false
 ---
 
-I am a student working in computational physics and nuclear physics.
+## Computational Physics · Nuclear Physics · Neural Networks · Ion Irradiation
 
-My research focuses on theoretical and computational approaches to complex physical systems, with particular interests in neural-network-based methods, ion irradiation processes, and atomistic simulations.
+I study computational and data-driven approaches to complex physical systems, with research interests spanning **computational physics**, **nuclear physics**, **neural-network methods**, and **ion irradiation**.
 
-I am interested in combining physics-based modeling with modern data-driven techniques to study structure, dynamics, and radiation-induced phenomena in materials and related systems.
+My work combines **physics-based modeling**, **atomistic simulation**, and **machine-learning techniques** to investigate radiation-induced processes, structural dynamics, and related many-body phenomena in materials and physical systems.
 
-My current work involves computational studies of irradiation effects, as well as the application of machine learning methods to physical modeling and simulation. More broadly, I am interested in problems at the intersection of computation, nuclear science, and many-body physics.
+This website presents my research interests, selected projects, and publications.
 
-This website collects my research activities, publications, and projects.
+---
+
+## Research Areas
+
+### Atomistic Simulation
+Numerical modeling of structure, dynamics, and irradiation-induced processes in condensed-matter and materials-related systems.
+
+### Ion Irradiation
+Computational studies of impact dynamics, energy transfer, defect generation, and radiation effects under energetic particles.
+
+### Neural-Network Methods
+Machine-learning approaches for interatomic potentials, simulation acceleration, and data-driven physical modeling.
+
+### Nuclear Physics
+Theoretical and computational research on nuclear systems and related problems in many-body physics.
+
+---
+
+## Featured Directions
+
+### Radiation-Induced Dynamics
+Understanding atomic-scale structural response and nonequilibrium evolution under irradiation.
+
+### Data-Driven Physical Modeling
+Combining neural networks with physical simulation to build efficient and reliable computational frameworks.
+
+### Multiscale Computational Physics
+Bridging microscopic simulation, theoretical modeling, and numerical methods across different physical problems.
+
+---
+
+## Current Interests
+
+- ion irradiation in materials and low-dimensional systems  
+- neural-network interatomic potentials  
+- computational modeling in nuclear and condensed-matter physics  
+- simulation-driven studies of complex physical processes  
