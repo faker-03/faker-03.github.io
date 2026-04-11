@@ -81,7 +81,18 @@ latest_posts: false
   font-size: 0.95rem;
   line-height: 1.7;
 }
+.cp-subtext strong {
+  color: #ffffff;
+  font-weight: 700;
+}
 
+.cp-note {
+  color: #e2e8f0;
+}
+
+.cp-note strong {
+  color: #ffffff;
+}
 .cp-section {
   margin: 2.2rem 0;
 }
