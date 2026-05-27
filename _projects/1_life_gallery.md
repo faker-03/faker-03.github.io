@@ -24,6 +24,15 @@ Although this website mainly presents my academic work, I also want to keep a fe
 <img src="{{ '/assets/img/life6.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
 <img src="{{ '/assets/img/life7.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
 <img src="{{ '/assets/img/life8.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life9.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life10.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life11.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life12.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life13.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life14.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life15.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+<img src="{{ '/assets/img/life16.jpg' | relative_url }}" style="width:100%;border-radius:12px;" />
+
 
 </div>
 
